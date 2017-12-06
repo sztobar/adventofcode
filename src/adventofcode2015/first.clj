@@ -1,4 +1,4 @@
-(ns adventofcode.first)
+(ns adventofcode2015.first)
 
 (defn santa-step
   "ho ho ho"

@@ -1,5 +1,5 @@
-(ns adventofcode.sixth
-  (:require [adventofcode.file :refer :all]
+(ns adventofcode2015.sixth
+  (:require [adventofcode2015.file :refer :all]
             [clojure.set :refer :all])
   (:use [clojure.java.io]))
 

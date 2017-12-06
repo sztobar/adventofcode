@@ -1,4 +1,4 @@
-(ns adventofcode.fourth
+(ns adventofcode2015.fourth
   (:import java.security.MessageDigest
            java.math.BigInteger))
 

@@ -1,6 +1,6 @@
-(ns adventofcode.third-test
+(ns adventofcode2015.third-test
   (:require [clojure.test :refer :all]
-            [adventofcode.third :refer :all]))
+            [adventofcode2015.third :refer :all]))
 
 (deftest santa-test
   (testing "Visited houses on santa`s radar"

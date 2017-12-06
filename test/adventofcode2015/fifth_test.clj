@@ -1,6 +1,6 @@
-(ns adventofcode.fifth-test
+(ns adventofcode2015.fifth-test
   (:require [clojure.test :refer :all]
-            [adventofcode.fifth :refer :all]))
+            [adventofcode2015.fifth :refer :all]))
 
 (deftest a-test
   (testing "Nice string checker"

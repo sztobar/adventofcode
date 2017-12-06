@@ -1,5 +1,5 @@
-(ns adventofcode.fifth
-  (:require [adventofcode.file :refer :all]))
+(ns adventofcode2015.fifth
+  (:require [adventofcode2015.file :refer :all]))
 
 (def vowel-regex
   #"[aeiou]")

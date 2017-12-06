@@ -1,4 +1,4 @@
-(ns adventofcode.third)
+(ns adventofcode2015.third)
 
 (defn deliver-presents [way]
   (loop [way' way

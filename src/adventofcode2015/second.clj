@@ -1,4 +1,4 @@
-(ns adventofcode.second
+(ns adventofcode2015.second
   (:require [clojure.string :as str])
   (:use [clojure.java.io]))
 

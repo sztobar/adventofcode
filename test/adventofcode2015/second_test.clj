@@ -1,6 +1,6 @@
-(ns adventofcode.second-test
+(ns adventofcode2015.second-test
   (:require [clojure.test :refer :all]
-            [adventofcode.second :refer :all]))
+            [adventofcode2015.second :refer :all]))
 
 (deftest a-test
   (testing "A present with dimensions '2x3x4'"

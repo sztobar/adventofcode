@@ -1,4 +1,4 @@
-(ns adventofcode.file
+(ns adventofcode2015.file
   (:use [clojure.java.io]))
 
 (defn file-reduce [s cb r]

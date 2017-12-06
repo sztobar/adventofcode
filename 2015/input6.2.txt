@@ -1,4 +1,0 @@
-toggle 322,558 through 977,958
-toggle 537,781 through 687,941
-turn on 226,196 through 599,390
-turn on 240,129 through 703,297

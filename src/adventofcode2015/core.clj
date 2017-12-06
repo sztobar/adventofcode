@@ -1,4 +1,4 @@
-(ns adventofcode.core
+(ns adventofcode2015.core
   (:gen-class))
 
 (defn -main
