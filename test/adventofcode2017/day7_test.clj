@@ -21,5 +21,5 @@
 
   (testing "calculate balance for umgl"
     (is (= (d7/ex2 test-filename)
-           60)))q
+           60)))
 
