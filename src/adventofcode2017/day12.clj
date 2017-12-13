@@ -87,3 +87,16 @@
    (->> (parse-input input)
         flatten-connections
         count-groups)))
+;; Elapsed time: 285.418496 msecs
+;; 200
+
+(defn ex2'
+  ([] (ex2' (get-input)))
+  ([input]
+   (->> (parse-input input)
+        create-all-connections
+        (#(map (fn [k] (get-connections k %)) (keys %)))
+        (into #{})
+        count)))
+;; Elapsed time: 158.075648 msecs
+;; as always simpler soluton turned out to be better
