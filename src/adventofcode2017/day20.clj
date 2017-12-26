@@ -6,10 +6,10 @@
 (defn get-input
   ([] (get-input "2017/day20.data"))
   ([filename]
-   (->> (io/resource filename)
-        io/reader
-        line-seq
-        vec)))
+   (-> (io/resource filename)
+       io/reader
+       line-seq
+       vec)))
 
 
 (defn parse-input [input]
